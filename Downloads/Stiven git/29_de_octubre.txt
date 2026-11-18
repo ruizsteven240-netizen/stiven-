@@ -1,0 +1,26 @@
+29 de octubre
+•Operaciones vectorizadas y funciones universales
+•Broadcasting operar entre formas distintas
+•Filtrar datos con máscara booleanas
+•Estadística descriptiva y el parámetro axis
+•Reorganizar y combinar arreglos
+•Valores faltantes
+
+continuo en este documento desde la fecha 3 de noviembre
+
+.Detaframe y series: la tabla y sus columnas
+.cargar y explorar: el ritual de las cinco líneas
+.seleccionar columnas y filas
+.filtrar filas con condiciones 
+. limpieza: datos faltantantes y duplicados
+.crear columnas nuevas
+.groupby : dividir aplicar y cumbinar
+.lo que debes llevar de pandas
+5 de noviembre
+.matplolib y un quiz
+10 de noviembre 
+. saber como se organiza la base de datos
+12 de noviembre
+.revisión de base de datos y subirlas
+17 de noviembre 
+.organizar las bases de datos y trabajar en el proyecto
